@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Prakhar
 ![LuKe](https://github.com/prakhar-luke/prakhar-luke/blob/cfbdbd7ddb6232ab9efd1823283b49b961ff6477/Lu1ke.jpg)
+# Hi there 👋 I'm Prakhar
 - 🔭 I’m currently working on: <!-- insert script to automatically uptade current working rep on github -->
 - 🌱 I’m currently learning: Machine Learning
 - 👯 I’m looking to collaborate on: 
