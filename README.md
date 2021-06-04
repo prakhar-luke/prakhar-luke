@@ -2,7 +2,10 @@
 <h1 align="center">Hi there 👋 I'm Prakhar</h1>
 <p>  
   
-- 🔭 I’m currently working on: <!-- insert script to automatically uptade current working rep on github -->  
+- 🔭 I’m currently working on:   
+{{range recentReleases 10}}
+[{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
   
 - 🌱 I’m currently learning: Machine Learning  
   
