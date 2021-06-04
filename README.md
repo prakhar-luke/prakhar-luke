@@ -17,5 +17,5 @@
 - ⚡ Fun fact: You shouldn't be here BUT now that you're here let's be friends.  
   
 - 😄 Now listening:  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=milk3vvnhxud78ca2buarvkpx&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)]]
 </p>
