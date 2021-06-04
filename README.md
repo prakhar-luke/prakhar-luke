@@ -1,8 +1,8 @@
 ![LuKe](https://github.com/prakhar-luke/prakhar-luke/blob/cfbdbd7ddb6232ab9efd1823283b49b961ff6477/Lu1ke.jpg)
 <h1 align="center">Hi there 👋 I'm Prakhar</h1>  
-![](https://komarev.com/ghpvc/?username=prakhar-luke&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-luke&label=PROFILE%20VIEWS&color=66ff00&style=flat-square" alt="prakhar-luke" /> </p>
 <p>  
-  
+
 - 🔭 I’m currently working on:   <!--
 {{range recentReleases 10}}
 [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
