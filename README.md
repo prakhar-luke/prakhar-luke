@@ -1,12 +1,13 @@
 ![LuKe](https://github.com/prakhar-luke/prakhar-luke/blob/cfbdbd7ddb6232ab9efd1823283b49b961ff6477/Lu1ke.jpg)
-<h1 align="center">Hi there 👋 I'm Prakhar</h1>
+<h1 align="center">Hi there 👋 I'm Prakhar</h1>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkushwaha1&label=Profile%20views&color=279a9d&style=flat" alt="utkarshkushwaha1" /> </p>
 <p>  
   
-- 🔭 I’m currently working on:   
+- 🔭 I’m currently working on:   <!--
 {{range recentReleases 10}}
 [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-  
+-->  
 - 🌱 I’m currently learning: Machine Learning  
   
 - 👯 I’m looking to collaborate on:  
