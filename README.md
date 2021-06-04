@@ -2,12 +2,12 @@
 <h1 align="center">Hi there 👋 I'm Prakhar</h1>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-luke&label=PROFILE%20VIEWS&color=66ff00&style=flat-square" alt="prakhar-luke" /> </p>
 <p>  
-
-- 🔭 I’m currently working on:   <!--
+<!--
+- 🔭 I’m currently working on:   
 {{range recentReleases 10}}
 [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
--->  
+ 
 - 🌱 I’m currently learning: Machine Learning  
   
 - 👯 I’m looking to collaborate on:  
@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with: Data science  
   
 - 💬 Ask me about: Nothing :P I'm still a newbies  
-   
+   -->
 - 📫 How to reach me: [Instagram](https://www.instagram.com/prakhar.luke/)  
   
 - ⚡ Fun fact: You shouldn't be here BUT now that you're here let's be friends.  
