@@ -1,7 +1,7 @@
 ![LuKe](https://github.com/prakhar-luke/prakhar-luke/blob/cfbdbd7ddb6232ab9efd1823283b49b961ff6477/Lu1ke.jpg)
 <h1 align="center">Hi there 👋 I'm Prakhar</h1>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-luke&label=PROFILE%20VIEWS&color=66ff00&style=flat-square" alt="prakhar-luke" /> </p>
-<p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-luke&label=PROFILE%20VIEWS&color=66ff00&style=flat-square" alt="prakhar-luke" /> </p> 
+ 
 <!--
 - 🔭 I’m currently working on:   
 {{range recentReleases 10}}
@@ -15,7 +15,8 @@
 - 🤔 I’m looking for help with: Data science  
   
 - 💬 Ask me about: Nothing :P I'm still a newbies  
-   -->
+   -->  
+<p> 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/prakhar.luke/)  
   
 - ⚡ Fun fact: You shouldn't be here BUT now that you're here let's be friends.  
