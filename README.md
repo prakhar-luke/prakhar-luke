@@ -16,7 +16,7 @@
   
 - 💬 Ask me about: Nothing :P I'm still a newbies  
    
-- 📫 How to reach me: <!-- prakhar.luke@gmail.com -->  
+- 📫 How to reach me: [Instagram](https://www.instagram.com/prakhar.luke/)  
   
 - ⚡ Fun fact: You shouldn't be here BUT now that you're here let's be friends.  
   
