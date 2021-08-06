@@ -25,8 +25,4 @@
 
   
 ## :headphones: Now listening:  
-<div align='center'>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&redirect=true)
-</div>
-<br />
-
