@@ -13,15 +13,17 @@
 </div>
 <br />
 
+<div align='center'>
+    <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-luke&theme=chartreuse-dark' alt='Top language used' align='center'/>
+</div>
+<br />
 <!---
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=@Prakhar_Luke&theme=chartreuse-dark&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-luke&theme=chartreuse-dark)
 --->
   
 ## :headphones: Now listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&redirect=true)
-<div align='left'>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-luke&theme=chartreuse-dark)
-</div>
