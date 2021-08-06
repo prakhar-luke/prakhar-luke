@@ -4,17 +4,17 @@
  
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark' alt='Github stats' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=false&theme=chartreuse-dark' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prakhar-luke&theme=chartreuse-dark' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prakhar-luke&hide_border=false&theme=chartreuse-dark' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-luke&theme=chartreuse-dark' alt='Top language used' align='center'/>
+    <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-luke&hide_border=false&theme=chartreuse-dark' alt='Top language used' align='center'/>
 </div>
 <br />
 <!---
