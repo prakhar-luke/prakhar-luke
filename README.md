@@ -2,11 +2,6 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-luke&label=PROFILE%20VIEWS&color=05c70e&style=flat-square" alt="prakhar-luke" /> </p> 
  
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/prakhar-bhandari-0aa68a213'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/luke_prakhar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/prakhar-luke'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 ## 📈 Stats:
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark' alt='Github stats' align='center' />
@@ -24,5 +19,8 @@
 <br />
 
   
-## :headphones: Now listening:  
+## :headphones: Now listening:
+<div align='center'>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&redirect=true)
+</div>
+<br />
