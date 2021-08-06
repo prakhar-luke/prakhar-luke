@@ -14,7 +14,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Prakhar_Luke&theme=chartreuse-dark&layout=compact' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=@Prakhar_Luke&theme=chartreuse-dark&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
