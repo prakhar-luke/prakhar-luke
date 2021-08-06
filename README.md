@@ -9,7 +9,7 @@
 
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark' alt='Github stats' align='left' />
+    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark' alt='Github stats' align='center' />
 </div>
 <br />
 
@@ -19,12 +19,12 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Prakhar_Luke&theme=chartreuse-dark&layout=compact' alt='Languages over last 7 days ' align='right' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Prakhar_Luke&theme=chartreuse-dark&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
   
-- :headphones: Now listening:  
+## :headphones: Now listening:  
 <div align='center'>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&redirect=true)
 </div>
