@@ -26,12 +26,12 @@
 
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api?username=prakhar-luke&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prakhar-luke' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prakhar-luke&theme=chartreuse-dark' alt='Github stats' align='center' />
 </div>
 <br />
 
