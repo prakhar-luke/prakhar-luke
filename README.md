@@ -26,4 +26,4 @@
 --->
   
 ## :headphones: Now listening:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=milk3vvnhxud78ca2buarvkpx&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qkt0ubqcsoiqceyeycusduw55&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
